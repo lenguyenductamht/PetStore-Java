@@ -28,8 +28,14 @@ Phần mền quản lý cửa hàng thú cưng trên Java - Java pet store manag
 - [x] Chức năng nghiệp vụ:
   - Chức năng bán thú cưng: ✓
     - Nội dung: Chức năng cho phép nhân viên hay quản lý có thể bán thú cưng cho khách hàng. Hệ thống chỉ lưu đơn hàng lại khi khách hàng thanh toán đơn hàng.
-
+# Hướng dẫn đăng nhập
+- Đăng nhập quyền nhân viên:
+  + Tên tài khoản: novt
+  + Mật khẩu: 0000
+- Đăng nhập quyền quản lý:
+  + Tên tài khoản: tamlndd
+  + Mật khẩu: 0000
 #  Demo
 Click ảnh để xem demo ⇓
 
-[![Watch the video](https://user-images.githubusercontent.com/83421255/174767166-2bd7f67c-477a-4007-91df-61fc00e1f64b.png)](https://firebasestorage.googleapis.com/v0/b/qlvideoimage.appspot.com/o/VideoDemoJava.mp4?alt=media&token=482ea204-8757-4a05-ada3-5b879ca97a6e)
+[![Watch the video](https://user-images.githubusercontent.com/83421255/174767166-2bd7f67c-477a-4007-91df-61fc00e1f64b.png)](https://drive.google.com/file/d/1XJ0rl5T4ACq8OEDPwfT4pj7WKsPHvxGu/view?usp=sharing)
